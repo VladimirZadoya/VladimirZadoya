@@ -3,7 +3,7 @@
 -🌱 I’m currently mastering Python and aiming to release a game in the near future.
 -💞 I’m looking to collaborate on exciting projects involving Java, JavaScript, or Python.
 -📫 How to reach me: You can connect with me via GitHub or email me at vladimirzadoya64@gmail.com
--😄 Pronouns: he
+-😄 Pronouns: he/him
 -⚡️ Fun fact: I'm a caffeine addict and will soon start taking guitar classes.
 
 <!---
